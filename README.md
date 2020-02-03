@@ -1,6 +1,6 @@
 ## 欢迎来到徐华玎的博客
 
-徐华玎的代码库[editor on GitHub](https://github.com/xuhuading/)分享一些我制作的内容。
+徐华玎的[GitHub代码库](https://github.com/xuhuading/)会定期展示我的一些作品。
 
 [我的个人网站](http://www.xuhuading.cn/)在后面的过程中也会发布一些代码
 
