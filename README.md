@@ -2,7 +2,7 @@
 
 徐华玎的代码库[editor on GitHub](https://github.com/xuhuading/)分享一些我制作的内容。
 
-[我的个人网站]在后面的过程中也会发布一些代码
+[我的个人网站](http://www.xuhuading.cn/)在后面的过程中也会发布一些代码
 
 ### 
 
