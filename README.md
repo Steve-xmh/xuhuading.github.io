@@ -4,34 +4,12 @@
 
 [我的个人网站](http://www.xuhuading.cn/)在后面的过程中也会发布一些代码
 
-### 
+### 我会写什么？
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Python、Scratch和网页设计都是我最擅长的
 
-```markdown
-Syntax highlighted code block
+我会定时制作和更新一些代码，可以在[这里](https://github.com/xuhuading/)看到。
 
-# Header 1
-## Header 2
-### Header 3
+### 联络
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xuhuading/xuhuading.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+你可以通过很多方式尝试和我建立联系，比如QQ:[368573607](http://sighttp.qq.com/authd?IDKEY=f84c30c39a63569560fe17068914aa7069bc0697c2698841). 你还可以通过邮箱联系我:[xuhuading@foxmail.com](xuhuading@foxmail.com)
