@@ -28,10 +28,8 @@
                             </div>
                         </div>
                         <div class="panel-body">
-
-                            <div>
-                                <textarea id="content" name="RawJson" class="json_input" rows="10" style="width: 100%;" spellcheck="false" placeholder="请输入Base64编码字符串"></textarea>
-                            </div>
+							<p>为了出于安全考虑，请重复一次或多次加密，以起到迷惑效果</p>
+							<p>此加密工具由<a href="JavaScript:window.open('https://xuhuading.github.io');">徐华玎</a>代为整理</p>
                             <div class="btn-group" role="group" aria-label="...">
                                 <button type="button" class="btn btn-primary" onclick="base64_encode();">BASE64加密
                                 </button>
@@ -39,8 +37,11 @@
                                 </button>
                                 <button type="button" class="btn btn-danger" onclick="Empty();">清空结果</button>
                             </div>
+							<div>
+                                <textarea id="content" name="RawJson" class="json_input" rows="10" style="width: 100%;" spellcheck="false" placeholder="请输入需要转换的文字"></textarea>
+                            </div>
                             <div style="padding-top: 10px;">
-                                <textarea id="result" name="RawJson" class="json_input" rows="10" style="width: 100%;" spellcheck="false" placeholder="加密或解密后的Base64编码字符串"></textarea>
+                                <textarea id="result" name="RawJson" class="json_input" rows="10" style="width: 100%;" spellcheck="false" placeholder="这里会显示转换后的文字"></textarea>
                             </div>
 
                         </div>
