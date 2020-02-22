@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Node OAuth2 Demo</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+        <a id="login">使用Alpha管理系统前你必须以合作成员的Github身份登陆我们的网站</a>
+
+<script>
+  // fill in your cliend_id
+  const client_id = 'f7eb076b581827a3d971';
+
+  const authorize_uri = 'https://github.com/login/oauth/authorize';
+  const redirect_uri = 'https://xuhuading.github.io/alpha/ys';
+
+  const link = document.getElementById('login');
+  link.href = `${authorize_uri}?client_id=${client_id}&redirect_uri=${redirect_uri}`;
+</script>
+
+</body>
+
+</html>
