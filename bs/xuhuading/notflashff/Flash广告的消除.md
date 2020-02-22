@@ -32,7 +32,7 @@
 
 我们还是彻底删除的好……
 
-你去[这里](https://xuhuading.github.io/download/notflashff)下载去，这个文件直接运行即可，不清楚的人慎用
+你去[这里](https://xuhuading.github.io/download/notflashff.bat)下载去，这个文件直接运行即可，不清楚的人慎用
 
 ![image-20200222122020094](image-20200222122020094.png)
 
