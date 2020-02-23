@@ -9,13 +9,13 @@
 </head>
 
 <body>
-        <a id="login">使用Alpha管理系统前你必须以合作成员的Github身份登陆我们的网站</a>
+        <a href="https://github.com/login/oauth/authorize?client_id=f7eb076b581827a3d971&scope=user:email">使用Alpha管理系统前你必须以合作成员的Github身份登陆我们的网站</a>
 
 <script>
   // fill in your cliend_id
   const client_id = 'f7eb076b581827a3d971';
 
-  const authorize_uri = 'https://github.com/login/oauth/authorize';
+  const authorize_uri = 'https://github.com/login/oauth/authorize?client_id=f7eb076b581827a3d971&scope=user:email';
   const redirect_uri = 'https://xuhuading.github.io/alpha/ys';
 
   const link = document.getElementById('login');
