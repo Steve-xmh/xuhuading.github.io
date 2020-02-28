@@ -1,4 +1,4 @@
-# 徐华玎的发表空间
+# 徐华玎的博客
 
 BS是徐华玎开发的一款以Markdown为主要编写语言的技术贡献网站，目前只允许Alpha Studio的成员发表、制作。
 
@@ -16,7 +16,7 @@ BS是徐华玎开发的一款以Markdown为主要编写语言的技术贡献网�
 
 ## 文章
 
-* [例：python实现创建文件夹](https://xuhuading.github.io/bs/xuhuading/python01)
+* [例：python实现创建文件夹](python01)
 * [使用 pyinstaller 打包 py 文件成 exe 程序](https://xuhuading.github.io/bs/xuhuading/python02)
 * [如何下载并安装新的typora主题](https://xuhuading.github.io/bs/xuhuading/ruanjian01)
 
